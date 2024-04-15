@@ -2,3 +2,5 @@ add eklemeden olur mu
 
 olur
  yeni deneme
+
+yeni committ oluştur
